@@ -1,4 +1,4 @@
-# U-Climate
+# U-Wiki
 
 [![Build Status](https://travis-ci.org/neeraj9/u-wiki.svg?branch=master)](https://travis-ci.org/neeraj9/u-wiki)
 [![Software License (3-Clause BSD)](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg?style=flat-square)](http://opensource.org/licenses/BSD-3-Clause)
